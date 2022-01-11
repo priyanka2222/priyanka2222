@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://peaceful-heyrovsky-20e592.netlify.app/](https://peaceful-heyrovsky-20e592.netlify.app/)
+- 👨‍💻 You can also check out my portfolio [https://peaceful-heyrovsky-20e592.netlify.app/](https://peaceful-heyrovsky-20e592.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
