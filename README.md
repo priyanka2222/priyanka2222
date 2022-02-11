@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka2222" alt="priyanka2222" /></a> </p> -->
 
-- 🔭 I’m had working on [Nike-Clone](https://musing-meninsky-05edbe.netlify.app/)
+- 🔭 I had working on [Nike-Clone](https://musing-meninsky-05edbe.netlify.app/)
 
 - 🌱 I’m currently learning **React**
 
