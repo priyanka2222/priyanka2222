@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **priyankasidgiddi106925@gmail.com or https://www.linkedin.com/in/priyanka-sidgiddi-42a4701b0/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Xmc27_z9EvBsZTRPj4UEqVLa8WohXnT/view?usp=sharing](https://drive.google.com/file/d/15Xmc27_z9EvBsZTRPj4UEqVLa8WohXnT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pzN4efiFgxL64ro-Hv0CwTEO2iKn4EnJ/view?usp=sharing](https://drive.google.com/file/d/15Xmc27_z9EvBsZTRPj4UEqVLa8WohXnT/view?usp=sharing)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
