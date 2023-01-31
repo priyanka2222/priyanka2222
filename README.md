@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can also check out my portfolio [https://portfolio-priyanka-sidgiddi.netlify.app/](https://portfolio-priyanka-sidgiddi.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MYSQL, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, React**
 
 - 📫 How to reach me **priyankasidgiddi106925@gmail.com or https://www.linkedin.com/in/priyanka-sidgiddi-42a4701b0/**
 
